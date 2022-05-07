@@ -29,6 +29,6 @@ Map centered on the city of Seattle. As my group's research proposal is focused 
 
 ## Credits
 
-- Special thanks to Bo Zhao for this assigment. Check out the assignment's instructions [here]('https://github.com/jakobzhao/geog458/tree/master/labs/lab04')
+- Special thanks to Bo Zhao for this assigment. Check out the assignment's instructions [here](https://github.com/jakobzhao/geog458/tree/master/labs/lab04)
 
-- [Mapbox]('https://studio.mapbox.com/')
+- [Mapbox](https://studio.mapbox.com/)
